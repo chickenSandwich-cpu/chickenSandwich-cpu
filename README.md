@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chickenSandwich-cpu🐤, welcome to my journey🗺️ on becoming a chickenSandwichDeveloper🐤🥪💻!
 - 👀 I’m interested in **creating fun_ctional projects**😆😆 whenever I can because I really enjoy programming😏💻; exploring **🅰️ℹ️**; and spread🔪🧈 the fun of coding to as many people🍞 as possible!!🙌🙌
-- 🌱 I’m currently learning **C++🍟** as my primary language🌐 as well as **ImGUI** framework, I'm also doing **Python🐍** in my free time, and a little bit of **Java☕**, a little bit of web dev with **HTML and CSS🎨** too!! **JavaScript☕📜** and **C#🗡️** will be my next destination someday!!📆📆
+- 🌱 I’m currently learning **C++🍟** as my primary language🌐, I'm also doing **Python🐍** in my free time, and a little bit of **Java☕**, a little bit of web dev with **HTML and CSS🎨** too!! **JavaScript☕📜** and **C#🗡️** will be my next destination someday!!📆📆
 - 💞️ I’m looking to collaborate on ...(updating...)
 - 📫 How to reach me ...(updating...)
 - 😄 Pronouns: ...(updating...)
