@@ -8,6 +8,8 @@
 
 **UPDATE (June 2025):** For those who are wondering (i doubt there is anyone), I'm still making my games and other projects as usual, the only issues why my github is kinda empty recently is because I mainly watching youtube videos (tutorials for unity, sfml, and i still have to learn the core of computer science like DSA), drawing a lot of sprites for my game(s), and because I was don't feel like forcing myself to commit something on github everyday, but don't worry guys, everything is still fine!
 
+**UPDATE (July 2025):** Hey guys, after learning and struggling, I have decided to come to a conclusion that I will focus on Java and Python, as well as their frameworks, libraries, etc. thanks again guys for keep going with me on this journey, everything is still fine!
+
 <!---
 chickenSandwich-cpu/chickenSandwich-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
